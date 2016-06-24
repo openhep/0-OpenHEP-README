@@ -1,4 +1,4 @@
-# 0-README
+# 0-OpenHEP-README
 What is OpenHEP about?
 
 There is a long history of publishing computer code used in high energy physics (HEP). It is published in specialized journals, on online platforms such as [HepForge](https://www.hepforge.org/) or on researchers' WWW pages. However, in most of these cases, the code itself is considered as a sort of "publication" - it is an elaborate, documented project expected to be used by others in a wide range of applications.
